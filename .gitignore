@@ -3,6 +3,12 @@ Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
+
+screeps.json
+
+.rpt2_cache/*
+node_modules/*
+
 # Folder config file
 Desktop.ini
 
